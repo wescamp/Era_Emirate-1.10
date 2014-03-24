@@ -1,0 +1,63 @@
+			 CHANGELOG Emirate Era
+________________________________________________________________________________
+Emirate :	
+Emirate is the name of an multi-ethnic Arab/Muslim-style faction in the Wesnoth realm. It comes from "emirate or amirate (Arabic: إمارة‎ imārah, plural: إمارات imārāt)" meaning - in short - a realm under a Muslim prince or commander, called Emir. 
+________________________________________________________________________________
+
+
+
+
+Version 1.9.0
+ = changed sprites for the suicide bomber unit 'shaheed' 
+	--- pasted into it a bomb graphic
+ = changed sprite for falcons
+	--- altered elder-falcon 
+	--- changed falcon sprite
+
+
+Version 1.2.0
+ = made fit fot 'The Southern Alliance'
+	- maintenance edits
+
+Version 1.1.7
+ = changed some sprites: back in:: 
+		* Mudafi (saracen_defender) and
+		* Rasikh (saracen_stalwart)
+
+Version 1.1.6
+ = typos, minor edits
+
+Version 1.1.5
+ + ironic paraphrasing note in descriptive server .pbl file
+	-- "all the fun, half the fundamentalism"
+	--
+	--- "All the laughs, half the calories" - from: 'The Hunger Games' (movie)
+
+Version 1.1.4
+ = minor edits, typos
+
+Version 1.1.3
+ = minor edits, typos
+
+Version 1.1.2
+ = added fantasy elements:
+	-- jinnies, and 
+	-- in game menue items: 'summon jinn' & 'call falcon bird' 
+
+Version 1.1.1
+ = ad: feedback topic id
+ = unit descriptions: fixed and edited 
+
+
+Version 1.1.1
+ = edited names of units to a consistent naming model following the general neural point of view expressed already in the mainline unit names in layman's termsm, e.g. Elvish Archer, Dwarvish Guardsman in comparison to Mudafi (defendant), Khalid (Khalid ibn al-Walid, famous 7th century military leader, a companion of the Islamic prophet Muhammad.
+ = changed some sprites
+ = took out Era_Al-Qedarites and Era_Elder_Elves  (for testing purposes)
+
+Version 1.1.0
+ = minor credit edits
+
+Version 1.0
+ = realse edition *)
+.....................................................................
+*) Initially released March,  10th, 2014 on  1.11.8 servers. Modified from Era Khalifate faction.
