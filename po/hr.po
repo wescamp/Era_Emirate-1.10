@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Era_Emirate-1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-24 04:10+0100\n"
+"PO-Revision-Date: 2014-03-24 04:10+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [textdomain]
+#: Era_Emirate/_main.cfg:30
+msgid "EEm"
+msgstr ""
+
+#. [era]: id=era_emirate
+#: Era_Emirate/_main.cfg:56
+msgid "Default + Emirate"
+msgstr ""
+
+#. [multiplayer_side]: id=emirate, type=random, type=marauder
+#: Era_Emirate/faction.cfg:4
+msgid "Emirate"
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:9
+msgid " This  unit can summon a small jinn."
+msgstr ""
+
+#. [dummy]: id=summonjinn_lvl1
+#: Era_Emirate/macros/abilities.cfg:14 Era_Emirate/macros/abilities.cfg:60
+#: Era_Emirate/macros/abilities.cfg:107
+msgid "Summonjinn"
+msgstr ""
+
+#. [dummy]: id=summonjinn_lvl1
+#: Era_Emirate/macros/abilities.cfg:15
+msgid ""
+"This unit can summon a small jinn, but not in environments of water or ice. "
+"It will then appear on a hex next to it."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:55
+msgid ""
+" This unit can do summon a jinn. It will then appear on a hex next to it."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:61
+msgid ""
+"This  unit can summon a jinn, but not in environments of water or ice. It "
+"will then appear on a hex next to it."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:102
+msgid " This  unit can summon a wonderful jinn."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:108
+msgid ""
+"This  unit can summon a wonderful jinn, but not in environments of water. It "
+"will then appear on a hex next to it."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:155
+msgid " This unit can call his Falcon bird."
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:160
+msgid "Summon Falcon"
+msgstr ""
+
+#: Era_Emirate/macros/abilities.cfg:161
+msgid ""
+"This  unit can call a Falcon bird near him. It will then appear on a hex "
+"next to it."
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:35
+msgid "Practically summon a {DESCRIPTION} ({COST}gold)"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:141
+#: Era_Emirate/macros/ingamemenueitems.cfg:178
+#: Era_Emirate/macros/ingamemenueitems.cfg:361
+#: Era_Emirate/macros/ingamemenueitems.cfg:398
+msgid "+$this_unit.level exp"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:190
+#: Era_Emirate/macros/ingamemenueitems.cfg:410
+msgid "Error"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:191
+msgid "I have insufficient resources right now. I am unable to summon a jinn!"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:203
+msgid "Summon a Jinn Help"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:216
+#: Era_Emirate/macros/ingamemenueitems.cfg:437
+msgid "Help"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:217
+msgid ""
+"To let your unit do summon a jinn, right-click on adjacent hexes near a "
+"selected summoner.\n"
+"                    \n"
+"You need all movement points (and remaining attacks) to practically summon a "
+"jinn. You are only able to summon a jinn in villages, castles or keeps, "
+"which can deliver the resources. Every practical summonjinning adds +4 to "
+"current experience. \n"
+"\n"
+"If there are 2 or more summoners, a new jinn will be summoned by the last "
+"selected unit able to summon a jinn."
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:256
+msgid "Call the {DESCRIPTION} bird ({COST}gold)"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:411
+msgid ""
+"I have insufficient resources right now. I am unable to utilize my Falcon!"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:423
+msgid "Summon Falcon Help"
+msgstr ""
+
+#: Era_Emirate/macros/ingamemenueitems.cfg:438
+msgid ""
+"To let your unit call a Falcon bird, right-click on adjacent hexes near a "
+"selected summoner. You need all movement points (and remaining attacks) to "
+"call the Falcon. Every call of a Falcon bird adds +4 to current experience.\n"
+"\n"
+"If there are 2 or more units able to summon a Falcon, a Falcon will be "
+"summon by the last selected unit able to call the bird."
+msgstr ""
+
+#. [trait]: id=MKmagicaltrait, description=This unit is immune to poison, plague and drain.
+#: Era_Emirate/macros/traits.cfg:9
+msgid "magical"
+msgstr ""
+
+#. [trait]: id=MKmagicaltrait, description=This unit is immune to poison, plague and drain.
+#: Era_Emirate/macros/traits.cfg:10
+msgid "female^magical"
+msgstr ""
+
+#. [trait]: id=MKemerald
+#: Era_Emirate/macros/traits.cfg:25
+msgid "emerald"
+msgstr ""
+
+#. [trait]: id=MKemerald
+#: Era_Emirate/macros/traits.cfg:26
+msgid "female^emerald"
+msgstr ""
+
+#. [trait]: id=MKdiamond
+#: Era_Emirate/macros/traits.cfg:46
+msgid "diamond"
+msgstr ""
+
+#. [trait]: id=MKdiamond
+#: Era_Emirate/macros/traits.cfg:47
+msgid "female^diamond"
+msgstr ""
+
+#. [trait]: id=MKsapphire
+#: Era_Emirate/macros/traits.cfg:66
+msgid "sapphire"
+msgstr ""
+
+#. [trait]: id=MKsapphire
+#: Era_Emirate/macros/traits.cfg:67
+msgid "female^sapphire"
+msgstr ""
+
+#. [trait]: id=MKruby
+#: Era_Emirate/macros/traits.cfg:81
+msgid "ruby"
+msgstr ""
+
+#. [trait]: id=MKruby
+#: Era_Emirate/macros/traits.cfg:82
+msgid "female^ruby"
+msgstr ""
+
+#. [trait]: id=MKamethyst
+#: Era_Emirate/macros/traits.cfg:99
+msgid "amethyst"
+msgstr ""
+
+#. [trait]: id=MKamethyst
+#: Era_Emirate/macros/traits.cfg:100
+msgid "female^amethyst"
+msgstr ""
+
+#. [race]: id=falcon, description=
+#: Era_Emirate/units/animals.cfg:6
+msgid "race^Falcon"
+msgstr ""
+
+#. [race]: id=falcon, description=
+#: Era_Emirate/units/animals.cfg:7
+msgid "race+female^Falcon"
+msgstr ""
+
+#. [race]: id=falcon, description=
+#: Era_Emirate/units/animals.cfg:8
+msgid "race^Falcons"
+msgstr ""
+
+#. [unit_type]: id=falcon, race=falcon
+#: Era_Emirate/units/animals/sc0_falcon.cfg:4
+msgid "Falcon"
+msgstr ""
+
+#. [unit_type]: id=falcon, race=falcon
+#: Era_Emirate/units/animals/sc0_falcon.cfg:20
+msgid ""
+"The falcon is a admired bird by the Arabs since long. The Emirate uses semi-"
+"tamed falcons for recon and scouting. The falcon dives can be so fast that "
+"stories abound of them injuring a foe’s head strong."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_Emirate/units/animals/sc0_falcon.cfg:28
+#: Era_Emirate/units/animals/sc1_elder_falcon.cfg:28
+msgid "claws"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/animals/sc0_falcon.cfg:37
+#: Era_Emirate/units/animals/sc1_elder_falcon.cfg:37
+msgid "beak"
+msgstr ""
+
+#. [unit_type]: id=elder_falcon, race=falcon
+#: Era_Emirate/units/animals/sc1_elder_falcon.cfg:4
+msgid "Elder Falcon"
+msgstr ""
+
+#. [unit_type]: id=elder_falcon, race=falcon
+#: Era_Emirate/units/animals/sc1_elder_falcon.cfg:20
+msgid ""
+"The falcon is a admired bird by the Arabs since long. The Emirate uses semi-"
+"tamed falcons for recon and scouting. These elder falcons have been through "
+"many perils and somehow managed to survive them. Their dives can be so fast "
+"that stories abound of them taking a foe’s head clean off."
+msgstr ""
+
+#. [race]: id=emirate
+#: Era_Emirate/units/emirate.cfg:5
+msgid "race^Emirate Human"
+msgstr ""
+
+#. [race]: id=emirate
+#: Era_Emirate/units/emirate.cfg:6
+msgid "race+female^Emirate Human"
+msgstr ""
+
+#. [race]: id=emirate
+#: Era_Emirate/units/emirate.cfg:7
+msgid "race+plural^Emirate"
+msgstr ""
+
+#. [race]: id=emirate
+#: Era_Emirate/units/emirate.cfg:11
+msgid ""
+"Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
+"Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
+"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
+"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
+"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
+"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdiʾ,"
+"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Muʿid,Abdul-Muʿizz,"
+"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
+"Mutaʿal,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
+"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
+"Rahman,Abdul-Rashid,Abdul-Raʿuf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
+"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
+"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,ʿAbid,ʿAbidin,Abu Bakr,Aby al-Khayr,"
+"Adil,Adham,Adib,ʿAdli,ʿAdnan,ʿAfif,Ahmad,ʿAjib,ʿAkif,Akil,Akram,Alaʾ,Alaʾ al-"
+"Din,Alʿ Abbas,Aladdin,al-Bara,al-Hakam,al-Harith,Alhasan,Alhusain,Ali,Alim,"
+"Almahdi,al-Safi,Altaf,Altair,al-Tayyib,al-Tijani,al-Tufail,Amid,ʿAmid,Amin,"
+"Amir,ʿAmir,Amjad,ʿAmmar,ʿAmro,Anas,Anis,ʿAntarah,Anwar,ʿAqil,Arfan,Arif,"
+"ʿArif,Asad,Asʿad,Asadel,Ashraf,Asif,ʿAsim,Aswad,Ataʿ,Ataʿ Allah,Ataʿ al-"
+"Rahman,Athil,Athir,ʿAtif,ʿAwad,ʿAwf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,Aza,"
+"ʿAzab,Azhar,Azim,ʿAziz,ʿAzzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
+"Bahaʿ,Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,Barir,"
+"Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,"
+"Bushr,Butrus,Dabir,Dani,Darwish,Daʿud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,"
+"Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,"
+"Faʿiz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,"
+"Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,"
+"Fida,Fikri,Firas,Fuʿad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,"
+"Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,"
+"Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hanaʾi,Hanbal,Hani,Hanif,"
+"Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,"
+"Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-"
+"Din,Ibrahim,ʿId,Idris,Ihsan,Ihtisham,ʿIkrimah,Ilias,ʿImad,Imad al-Din,Imran,"
+"Imtiyaz,Inʿam,Iqbal,ʿIrfan,ʿIsa,ʿIsam,Ishaq,Ismaʿil,Iyad,Iyas,Izz al-Din,"
+"Jabbar,Jabr,Jabir,Jad Allah,Jaʿfar,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal "
+"al-Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,"
+"Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
+"Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
+"Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
+"Kutaiba,Labib,Lablab,Latif,Layth,LuʿayLubayd,Luqman,Lut,Lutfi,Maʿd,Madani,"
+"Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,"
+"Majid,Makin,Malik,Mamduh,Maʿmun,Maʿin,Mandhur,Mansur,Marghub,Marid,Maʿruf,"
+"Marwan,Marzuq,Mashʿal,Mashhur,Masrur,Masʿud,Masun,Maysarah,Mazhar,Mazin,"
+"Mehmed,Mihran,Mihyar,Mikaʾil,Miqdad,Misbah,Mishʿal,Miyaz,Muʾadh,Muʾawiyah,"
+"Muʾayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,"
+"Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Muʿin,Muʿizz,Mujab,"
+"Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Muʿmmar,Muʿmin,Mumtaz,Munahid,"
+"Mundhir,Munib,Munif,Munir,Muʿnis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,"
+"Murtada,Musa,Musʿab,Musaʿid,Mushtaq,Muslih,Muslim,Mutafa,Mutaʾ,Muʿtasim,"
+"Mutawalli,Muʿtazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,"
+"Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafiʾ,Nahid,Naʾil,Naʾim,Naji,Najib,"
+"Najid,Najjar,Najm al-Din,Naʿaman,Namir,Nashʿah,Nashʿat,Nashwan,Nasib,Nasih,"
+"Nasim,Nasir,Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,"
+"Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nuʿaym,Nuh,Nuhayd,Numair,Nuʿman,Nur al-"
+"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,"
+"Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Raʿid,"
+"Raʿif,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,"
+"Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Raʿuf,Rayhan,Rayyan,Razin,Ridha,Ridwan,"
+"Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Saʿadah,Sab,Sabih,Sabir,Sabri,"
+"Saʿd,Saʿd al-Din,Sadad,Sadid,Sadiq,Saʿdun,Saʿid,Safi,Safiy,Safiy al-Din,"
+"Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Saʾib,Saif,Saif al-Din,Sajid,"
+"Sajjad,Sakhr,Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,"
+"Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Shaʿban,Shadi,Shadin,Shafi,Shafiq,"
+"Shahid,Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
+"Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shuʿayb,Shukri,Shumayl,Siddiq,"
+"Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,"
+"Sumrah,Suraqah,Suʿud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,"
+"Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,"
+"Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,ʿUbaidah,Ubaid,Ubayy,"
+"ʿUdayl,ʿUday,ʿUmar,Umarah,Umair,ʾaUrwah,Usaym,Usama,ʿUtbah,Uthal,Uthman,"
+"Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Waʾil,Wajdi,Wajid,Wajih,Wakil,"
+"Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,"
+"Wazir,Yahya,Yaman,Yaʿqub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,"
+"Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
+"Ziyad,Zubayr,Zuhayr"
+msgstr ""
+
+#. [race]: id=emirate
+#: Era_Emirate/units/emirate.cfg:12
+msgid ""
+"Emirate is the name of an multi-ethnic Arab-style group in the Wesnoth "
+"realm. It comes from "
+msgstr ""
+
+#. [unit_type]: id=incendiary, race=emirate
+#: Era_Emirate/units/emirate/a1_incendiary.cfg:4
+msgid "Emirate Incendiary"
+msgstr ""
+
+#. [unit_type]: id=incendiary, race=emirate
+#: Era_Emirate/units/emirate/a1_incendiary.cfg:21
+msgid ""
+"Emirate Incendiaries frequently use burning arrows to set fire to enemy "
+"fortifications and generally sow terror amongst the enemy. Such tactics may "
+"also have other uses in a land of many strange wonders..."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_Emirate/units/emirate/a1_incendiary.cfg:26
+#: Era_Emirate/units/emirate/a2_flamethrower.cfg:27
+#: Era_Emirate/units/emirate/a3_naphthaneer.cfg:28
+msgid "naphtha attack"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_Emirate/units/emirate/a1_incendiary.cfg:35
+#: Era_Emirate/units/emirate/a2_flamethrower.cfg:36
+#: Era_Emirate/units/emirate/a3_naphthaneer.cfg:37
+msgid "fire arrow"
+msgstr ""
+
+#. [unit_type]: id=flamethrower, race=emirate
+#: Era_Emirate/units/emirate/a2_flamethrower.cfg:4
+msgid "Emirate Flamethrower"
+msgstr ""
+
+#. [unit_type]: id=flamethrower, race=emirate
+#: Era_Emirate/units/emirate/a2_flamethrower.cfg:22
+msgid ""
+"The Emirate Flamethrower is a very devastation ranged attack unit. He is "
+"fire delivering devastation from a secure distance."
+msgstr ""
+
+#. [unit_type]: id=naphthaneer, race=emirate
+#: Era_Emirate/units/emirate/a3_naphthaneer.cfg:4
+msgid "Emirate Naphtaneer"
+msgstr ""
+
+#. [unit_type]: id=naphthaneer, race=emirate
+#: Era_Emirate/units/emirate/a3_naphthaneer.cfg:23
+msgid ""
+"Naphtha is a word derived from the Persian language, meaning petroleum or "
+"pitch. An Emirate Naphtaneer is the ultimate flamethrower, he is an-Naqba "
+"(the catastrophe)."
+msgstr ""
+
+#. [unit_type]: id=mounted_bowman, race=emirate
+#: Era_Emirate/units/emirate/am1_mounted_bowman.cfg:4
+msgid "Emirate Mounted Bowman"
+msgstr ""
+
+#. [unit_type]: id=mounted_bowman, race=emirate
+#: Era_Emirate/units/emirate/am1_mounted_bowman.cfg:18
+msgid ""
+"Emirate mounted bowmen are excellent horsemen and few can shoot as well from "
+"horseback as they. They love to circle and harass enemies from afar while "
+"using their superior speed to avoid heavy counter attack.."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_Emirate/units/emirate/am1_mounted_bowman.cfg:23
+#: Era_Emirate/units/emirate/am2_horse_archer.cfg:23
+#: Era_Emirate/units/emirate/am3_horse_masterarcher.cfg:24
+#: Era_Emirate/units/emirate/fm1a_tatar_lancer.cfg:39
+#: Era_Emirate/units/emirate/fm2a_mamluc_kataphract.cfg:31
+#: Era_Emirate/units/emirate/fm2b_tartar_cavalryman.cfg:23
+#: Era_Emirate/units/emirate/fm3a_mamluc_margrave.cfg:32
+#: Era_Emirate/units/emirate/fm3b_tatar_castellan.cfg:24
+#: Era_Emirate/units/emirate/h1_healer_medic.cfg:27
+#: Era_Emirate/units/emirate/h2_emirate_physician.cfg:28
+#: Era_Emirate/units/emirate/h3_emirate_doctor.cfg:30
+msgid "mace"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/emirate/am1_mounted_bowman.cfg:31
+#: Era_Emirate/units/emirate/am2_horse_archer.cfg:31
+#: Era_Emirate/units/emirate/am3_horse_masterarcher.cfg:32
+#: Era_Emirate/units/emirate/mf1a_axeman.cfg:30
+#: Era_Emirate/units/emirate/mf2a_marauder.cfg:30
+#: Era_Emirate/units/emirate/mf3a_terrorizer.cfg:31
+msgid "composite bow"
+msgstr ""
+
+#. [unit_type]: id=horse_archer, race=emirate
+#: Era_Emirate/units/emirate/am2_horse_archer.cfg:4
+msgid "Emirate Horse Archer"
+msgstr ""
+
+#. [unit_type]: id=horse_archer, race=emirate
+#: Era_Emirate/units/emirate/am2_horse_archer.cfg:18
+msgid ""
+"Emirate mounted bowmen who demonstrate exceptional skill with the bow are "
+"made into Emirate horse archers, spending hours every day practicing and "
+"building a rapport with their steed. This has made them the fastest riders "
+"in the Emirate armies, and a wise military commander uses to this advantage."
+msgstr ""
+
+#. [unit_type]: id=horse_masterarcher, race=emirate
+#: Era_Emirate/units/emirate/am3_horse_masterarcher.cfg:4
+msgid "Emirate Horse Masterarchers"
+msgstr ""
+
+#. [unit_type]: id=horse_masterarcher, race=emirate
+#: Era_Emirate/units/emirate/am3_horse_masterarcher.cfg:19
+msgid ""
+"The elite of the mounted archery are the Emirate Horse Masterarchers, horse "
+"archers of such speed and dexterity that rumors are always spread that they "
+"have elven blood. Irritated at such mystical nonsense, the Horse "
+"Masterarchers can frequently be found demonstrating their exceptional skill "
+"at the forefront of battle, riding with great speed through the lines of "
+"battle to rain arrows down upon the enemy."
+msgstr ""
+
+#. [unit_type]: id=aref_fighter, race=emirate
+#: Era_Emirate/units/emirate/f1a_aref_fighter.cfg:4
+msgid "Aref Fighter"
+msgstr ""
+
+#. [unit_type]: id=aref_fighter, race=emirate
+#: Era_Emirate/units/emirate/f1a_aref_fighter.cfg:20
+msgid ""
+"The Aref Fighters form the backbone of any Emirate foot advance. They are "
+"often sent against fortified enemy positions where their valor and skill "
+"with a sword allows them to assault seemingly inpenetrable defenses. An Aref "
+"is also a seeker of mystical intuitive martial wisdom of spiritual truth "
+"reached through ecstatic experiences."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_Emirate/units/emirate/f1a_aref_fighter.cfg:25
+#: Era_Emirate/units/emirate/f2a_aref_brave.cfg:26
+#: Era_Emirate/units/emirate/f3a_aref_khan.cfg:26
+#: Era_Emirate/units/emirate/f4a_aref_arslan.cfg:27
+#: Era_Emirate/units/emirate/fm2c_camel_raider.cfg:25
+#: Era_Emirate/units/emirate/fm3c_camel_scavenger.cfg:26
+msgid "long sword"
+msgstr ""
+
+#. [unit_type]: id=aref_brave, race=emirate
+#: Era_Emirate/units/emirate/f2a_aref_brave.cfg:4
+msgid "Aref Brave"
+msgstr ""
+
+#. [unit_type]: id=aref_brave, race=emirate
+#: Era_Emirate/units/emirate/f2a_aref_brave.cfg:21
+msgid ""
+"Emirate Aref Brave are experienced fighters of the Emirate foot advance. An "
+"Aref is also a seeker of mystical intuitive martial wisdom of spiritual "
+"truth reached through ecstatic experiences."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_Emirate/units/emirate/f2a_aref_brave.cfg:38
+#: Era_Emirate/units/emirate/f3a_aref_khan.cfg:38
+#: Era_Emirate/units/emirate/f4a_aref_arslan.cfg:39
+msgid "shield bash"
+msgstr ""
+
+#. [unit_type]: id=saracen_defender, race=emirate
+#: Era_Emirate/units/emirate/f2b_saracen_defender.cfg:4
+msgid "Saracen Defender"
+msgstr ""
+
+#. [unit_type]: id=saracen_defender, race=emirate
+#: Era_Emirate/units/emirate/f2b_saracen_defender.cfg:19
+msgid "This heavy armoured unit is a spear lance wielding saracen defender."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/emirate/f2b_saracen_defender.cfg:24
+msgid "spear lance"
+msgstr ""
+
+#. [unit_type]: id=aref_khan, race=emirate
+#: Era_Emirate/units/emirate/f3a_aref_khan.cfg:4
+msgid "Aref Khan"
+msgstr ""
+
+#. [unit_type]: id=aref_khan, race=emirate
+#: Era_Emirate/units/emirate/f3a_aref_khan.cfg:21
+msgid ""
+"Khan means military commander and Aref translates as seeker of mystical "
+"intuitive martial wisdom of spiritual truth reached through ecstatic "
+"experiences."
+msgstr ""
+
+#. [unit_type]: id=saracen_stalwart, race=emirate
+#: Era_Emirate/units/emirate/f3b_saracen_stalwart.cfg:4
+msgid "Saracen Stalwart"
+msgstr ""
+
+#. [unit_type]: id=saracen_stalwart, race=emirate
+#: Era_Emirate/units/emirate/f3b_saracen_stalwart.cfg:20
+msgid "This heavy armoured unit is a spear lance wielding saracen stalwart."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/emirate/f3b_saracen_stalwart.cfg:25
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=aref_arslan, race=emirate
+#: Era_Emirate/units/emirate/f4a_aref_arslan.cfg:4
+msgid "Arslan (a hero)"
+msgstr ""
+
+#. [unit_type]: id=aref_arslan, race=emirate
+#: Era_Emirate/units/emirate/f4a_aref_arslan.cfg:22
+msgid ""
+"This is an Aref hero unit, he is also a seeker of mystical intuitive martial "
+"wisdom of spiritual truth reached through ecstatic experiences. Arslan "
+"meaning lion."
+msgstr ""
+
+#. [unit_type]: id=tatar_lancer, race=emirate
+#: Era_Emirate/units/emirate/fm1a_tatar_lancer.cfg:4
+msgid "Tatar Lancer"
+msgstr ""
+
+#. [unit_type]: id=tatar_lancer, race=emirate
+#: Era_Emirate/units/emirate/fm1a_tatar_lancer.cfg:26
+msgid ""
+"The wild Tatar Lancers wear truly heavy armor, and thus close with a single "
+"high impact lance charge in order to save their poor horses’ stamina before "
+"switching over to their trusty maces."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/emirate/fm1a_tatar_lancer.cfg:31
+#: Era_Emirate/units/emirate/fm2a_mamluc_kataphract.cfg:23
+#: Era_Emirate/units/emirate/fm3a_mamluc_margrave.cfg:24
+msgid "lance"
+msgstr ""
+
+#. [unit_type]: id=mamluc_kataphract, race=emirate
+#: Era_Emirate/units/emirate/fm2a_mamluc_kataphract.cfg:4
+msgid "Mamluc Kataphract"
+msgstr ""
+
+#. [unit_type]: id=mamluc_kataphract, race=emirate
+#: Era_Emirate/units/emirate/fm2a_mamluc_kataphract.cfg:18
+msgid ""
+"Those equestrians who distinguish themselves in battle are given the "
+"opportunity to prove themselves worthy of becoming a part of the heavy "
+"Emirate cavalry. Those who pass the trial are given the traditional Mamluc "
+"Kataphract barding for their horse, distinguishing them from the rest of the "
+"cavalry."
+msgstr ""
+
+#. [unit_type]: id=tartar_cavalryman, race=emirate
+#: Era_Emirate/units/emirate/fm2b_tartar_cavalryman.cfg:4
+msgid "Tartar Cavalryman"
+msgstr ""
+
+#. [unit_type]: id=tartar_cavalryman, race=emirate
+#: Era_Emirate/units/emirate/fm2b_tartar_cavalryman.cfg:18
+msgid ""
+"Those horsemen who are not skilled enough to join the ranks of the "
+"Cavalrymen or quick enough with a bow for the Saree are instead placed with "
+"the Tartar Cavalry. Far from being a sign of failure, the Tartar Cavalrymen "
+"were created to support the foot troops with mace or bow as needed. Tartar "
+"Cavalrymen are often used to draw enemies into a position where they will be "
+"surrounded and crushed by horse archery."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_Emirate/units/emirate/fm2b_tartar_cavalryman.cfg:31
+#: Era_Emirate/units/emirate/fm3b_tatar_castellan.cfg:32
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=camel_raider, race=emirate
+#: Era_Emirate/units/emirate/fm2c_camel_raider.cfg:4
+msgid "Emirate Camel Raider"
+msgstr ""
+
+#. [unit_type]: id=camel_raider, race=emirate
+#: Era_Emirate/units/emirate/fm2c_camel_raider.cfg:20
+msgid ""
+"The Emirate uses these Camel Raiders as their light cavalry force. They are "
+"versatile and excel in hilly terrain."
+msgstr ""
+
+#. [unit_type]: id=mamluc_margrave, race=emirate
+#: Era_Emirate/units/emirate/fm3a_mamluc_margrave.cfg:4
+msgid "Mamluc Margrave"
+msgstr ""
+
+#. [unit_type]: id=mamluc_margrave, race=emirate
+#: Era_Emirate/units/emirate/fm3a_mamluc_margrave.cfg:19
+msgid ""
+"The Mamluc Margraves are eminent horsemen, amassing titles and accolades "
+"that are as distinguishing for them as the scrollwork on their armor. Having "
+"honed their skill with a lance in years of battle, the Mamluc Margraves are "
+"an unstoppable force. Enemies swiftly discover that hills do not deter these "
+"riders in the slightest, and the displaced air of a descending mace "
+"sometimes is the last sound they hear."
+msgstr ""
+
+#. [unit_type]: id=tatar_castellan, race=emirate
+#: Era_Emirate/units/emirate/fm3b_tatar_castellan.cfg:4
+msgid "Tatar Castellan"
+msgstr ""
+
+#. [unit_type]: id=tatar_castellan, race=emirate
+#: Era_Emirate/units/emirate/fm3b_tatar_castellan.cfg:19
+msgid ""
+"The Tatar Castellan is a steward commander of conquered cities "
+"fortifications or castles."
+msgstr ""
+
+#. [unit_type]: id=camel_scavenger, race=emirate
+#: Era_Emirate/units/emirate/fm3c_camel_scavenger.cfg:4
+msgid "Emirate Camel Scavenger"
+msgstr ""
+
+#. [unit_type]: id=camel_scavenger, race=emirate
+#: Era_Emirate/units/emirate/fm3c_camel_scavenger.cfg:21
+msgid ""
+"The Emirate uses these Camel Scavenger as their elite light cavalry force. "
+"They are versatile and excel in hilly terrain."
+msgstr ""
+
+#. [unit_type]: id=healer_medic, race=emirate
+#: Era_Emirate/units/emirate/h1_healer_medic.cfg:4
+msgid "Emirate Healer-Medic"
+msgstr ""
+
+#. [unit_type]: id=healer_medic, race=emirate
+#: Era_Emirate/units/emirate/h1_healer_medic.cfg:22
+msgid ""
+"Emirate Healer-Medics use their knowledge of herbal concoctions to quickly "
+"heal the Emirate conquerors."
+msgstr ""
+
+#. [unit_type]: id=emirate_physician, race=emirate
+#: Era_Emirate/units/emirate/h2_emirate_physician.cfg:4
+msgid "Emirate Physician"
+msgstr ""
+
+#. [unit_type]: id=emirate_physician, race=emirate
+#: Era_Emirate/units/emirate/h2_emirate_physician.cfg:23
+msgid ""
+"Emirate Physicians use their knowledge of ancient barber surgeon techniques "
+"and herbal concoctions to heal the Emirate conquerors and bring them quickly "
+"back to the front lines."
+msgstr ""
+
+#. [unit_type]: id=emirate_doctor, race=emirate
+#: Era_Emirate/units/emirate/h3_emirate_doctor.cfg:4
+msgid "Emirate Doctor"
+msgstr ""
+
+#. [unit_type]: id=emirate_doctor, race=emirate
+#: Era_Emirate/units/emirate/h3_emirate_doctor.cfg:25
+msgid ""
+"Emirate Doctors use their knowledge of ancient medicine to cure the Emirate "
+"conquerors and bring them quickly back to the front lines."
+msgstr ""
+
+#. [unit_type]: id=axeman, race=emirate
+#: Era_Emirate/units/emirate/mf1a_axeman.cfg:4
+msgid "Emirate Axeman"
+msgstr ""
+
+#. [unit_type]: id=axeman, race=emirate
+#: Era_Emirate/units/emirate/mf1a_axeman.cfg:17
+msgid ""
+"The Emirate uses these Axemen as their foot force. They are versatile mixed "
+"fighters and excel in hilly terrain.  Some of them choose a career as "
+"mounted camel raider, while others choose a career as Emirate Marauders."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_Emirate/units/emirate/mf1a_axeman.cfg:22
+#: Era_Emirate/units/emirate/mf2a_marauder.cfg:22
+#: Era_Emirate/units/emirate/mf3a_terrorizer.cfg:23
+msgid "axe"
+msgstr ""
+
+#. [unit_type]: id=marauder, race=emirate
+#: Era_Emirate/units/emirate/mf2a_marauder.cfg:4
+msgid "Emirate Marauder"
+msgstr ""
+
+#. [unit_type]: id=marauder, race=emirate
+#: Era_Emirate/units/emirate/mf2a_marauder.cfg:17
+msgid ""
+"The Emirate uses these marauders as their foot force. They are versatile "
+"mixed fighters and excel in hilly terrain."
+msgstr ""
+
+#. [unit_type]: id=terrorizer, race=emirate
+#: Era_Emirate/units/emirate/mf3a_terrorizer.cfg:4
+msgid "Emirate Terrorizer"
+msgstr ""
+
+#. [unit_type]: id=terrorizer, race=emirate
+#: Era_Emirate/units/emirate/mf3a_terrorizer.cfg:18
+msgid ""
+"The Emirate Terrorzers excell the abilities of the marauders to the maximum. "
+"This tricky foot force is versatile and excels in hilly terrain for "
+"terrorists missions."
+msgstr ""
+
+#. [race]: id=jinnies
+#: Era_Emirate/units/jinnies.cfg:6
+msgid "race^Emirate Jinn"
+msgstr ""
+
+#. [race]: id=jinnies
+#: Era_Emirate/units/jinnies.cfg:7
+msgid "race+female^Emirate Jinn"
+msgstr ""
+
+#. [race]: id=jinnies
+#: Era_Emirate/units/jinnies.cfg:8
+msgid "race+plural^Emirates"
+msgstr ""
+
+#. [race]: id=jinnies
+#: Era_Emirate/units/jinnies.cfg:19
+msgid "Shayytan,Shajitan,Jinnee,Djnni,Jinni,Jennee,Dennee,Dinni"
+msgstr ""
+
+#. [race]: id=jinnies
+#: Era_Emirate/units/jinnies.cfg:21
+msgid "Jinns are astralplanar spirits alien to our dimension."
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn-small, race=jinnies
+#: Era_Emirate/units/jinnies/a1_emirate_jinn-small.cfg:4
+msgid "Small Jinni"
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn-small, race=jinnies
+#: Era_Emirate/units/jinnies/a1_emirate_jinn-small.cfg:19
+msgid ""
+"Jinns are special by even sorcerous standards. Made entirely of magic, jinns "
+"are vulnerable to the arcane magic though more resilient against tangible "
+"weapons."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_Emirate/units/jinnies/a1_emirate_jinn-small.cfg:33
+msgid "enchanted dagger"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_Emirate/units/jinnies/a1_emirate_jinn-small.cfg:45
+#: Era_Emirate/units/jinnies/a2_emirate_jinn.cfg:48
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:79
+msgid "magic bolt"
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn, race=jinnies
+#: Era_Emirate/units/jinnies/a2_emirate_jinn.cfg:4
+msgid "Jinn"
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn, race=jinnies
+#: Era_Emirate/units/jinnies/a2_emirate_jinn.cfg:19
+msgid ""
+"Small Jinns bear an insatiable thirst for knowledge that will soon cause "
+"them to grow to Jinns. Wiser than some of their own masters, Jinns are "
+"treated similarly to humans, if not better for their insight.\n"
+" \n"
+"Jinns frequently hold positions of authority in councils. Gifted with quick "
+"minds, Jinns still search for interdimensional answers to life’s questions."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_Emirate/units/jinnies/a2_emirate_jinn.cfg:35
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:37
+msgid "enchanted scimitar"
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn-wonderful, race=jinnies
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:4
+msgid "Wonderful Jinn"
+msgstr ""
+
+#. [unit_type]: id=emirate_jinn-wonderful, race=jinnies
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:20
+msgid ""
+"Wonderful Jinns are like sages in the Emirate society, spreading their "
+"wisdom to any ear willing to listen. Their unequaled imagination and "
+"intellect of the world is evident through their vast multitude of elemental "
+"and arcane spells. Jinns of such high have long since been independent, "
+"servants to their masters no longer. It is a mystery, for they still follow "
+"the orders of their superiors and have not yet retired into the shadows of "
+"the world."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:51
+msgid "fiery bolt"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_Emirate/units/jinnies/a3_emirate_jinn-wonderful.cfg:65
+msgid "chilling bolt"
+msgstr ""
